@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Benjamin Temitope</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" height="50" />, I'm Benjamin Temitope</h1>
 <h3 align="center">A passionate Backend Developer from Nigeria <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/255px-Flag_of_Nigeria.svg.png" height="30" width="40" align="center" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamintemitope&label=Profile%20views&color=0e75b6&style=flat" alt="benjamintemitope" /> </p>
