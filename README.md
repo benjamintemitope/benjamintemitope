@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" height="50" />, I'm Benjamin Temitope</h1>
-<h3 align="center">A passionate Backend Developer from Nigeria <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/255px-Flag_of_Nigeria.svg.png" height="30" width="40" align="center" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamintemitope&label=Profile%20views&color=0e75b6&style=flat" alt="benjamintemitope" /> </p>
 
@@ -7,13 +6,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/temitopedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="temitopedev" height="30" width="40" /></a>
-<a href="https://instagram.com/benjamintemitope" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benjamintemitope" height="30" width="40" /></a>
+<a href="https://twitter.com/temitopedev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="temitopedev" height="50" width="50" /></a>
+<a href="https://instagram.com/benjamintemitope" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="benjamintemitope" height="50" width="50" /></a>
 </p>
 
 ### Personal Stats
 
 <p><img align="right" alt="benjamintemitope's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=benjamintemitope&count_private=0&show_icons=true&" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjamintemitope&theme=dark" alt="pratiksh404" /></p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamintemitope)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjamintemitope&theme=dark" alt="benjamintemitope" /></p>
