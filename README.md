@@ -13,6 +13,7 @@
 
 ### Personal Stats
 
-<img align="right" alt="benjamintemitope's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=benjamintemitope&count_private=0&show_icons=true&" />
+<p><img align="right" alt="benjamintemitope's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=benjamintemitope&count_private=0&show_icons=true&" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratiksh404&theme=dark" alt="pratiksh404" /></p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamintemitope)
