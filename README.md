@@ -12,5 +12,7 @@
 
 ### Personal Stats
 
-<p><img align="right" alt="benjamintemitope's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=benjamintemitope&count_private=0&show_icons=true&" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjamintemitope&theme=dark" alt="benjamintemitope" /></p>
+<p>
+<img align="left" alt="benjamintemitope's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=benjamintemitope&count_private=0&show_icons=true&" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjamintemitope&theme=dark" alt="benjamintemitope" />
+</p>
